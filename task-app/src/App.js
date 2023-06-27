@@ -1,4 +1,4 @@
-import * as React from "react";
+import React from "react";
 import TaskTable from "./routes/TaskTable";
 import TaskInput from "./routes/TaskInput.js";
 import Data from "./TaskData.json";
